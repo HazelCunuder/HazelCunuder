@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 <strong>Web Developer</strong>in training 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
+<p align="center">🎓 <strong>Web Developer</strong> in training 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
 
 ###
 
