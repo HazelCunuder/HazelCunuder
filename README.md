@@ -111,7 +111,7 @@
 
 ###
 
-<p align="left">Interested in profile? Then feel free to contact me:</p>
+<p align="left">Did my profile catch your attention? Then feel free to contact me:</p>
 
 ###
 
