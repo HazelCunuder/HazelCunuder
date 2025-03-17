@@ -48,7 +48,7 @@
 
 ###
 
-<p align="center">*<b>Tools:</b></p>
+<p align="center"><b>Tools:</b></p>
 
 ###
 
