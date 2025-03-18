@@ -2,15 +2,11 @@
 
 ###
 
-<p align="center">🎓 <strong>Web Developer</strong> in training 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
+<p align="center">🎓 <strong>Full Stack</strong> developer 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
 
 ###
 
 <h2 align="left">👩 About me</h2>
-
-###
-
-<img align="right" height="220" src="https://media.discordapp.net/attachments/776590677281734706/1263760932081766502/Untitled_Artwork.png?ex=67d52d95&is=67d3dc15&hm=e5834d07011a60beca3a477d37df6c08b215df49a6ec84309c88199c3f854901&=&format=webp&quality=lossless&width=419&height=633"  />
 
 ###
 
@@ -103,28 +99,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=HazelCunuder&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h2 align="left">📱 Contact me</h2>
-
-###
-
-<p align="left">Did my profile catch your attention? Then feel free to contact me:</p>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/duhitshazel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:hazel.claire.lee@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-   <a href="https://discord.gg/t92yfUw5Td" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
