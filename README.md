@@ -12,6 +12,12 @@
 
 <p align="left">- 🇰🇷 Born in Seoul, <b>South Korea</b> | 🇫🇷 Raised in <b>France</b><br>- Hobbies: 🎮 Video Games, 🎨 Graphic Design, 🏀 Sports<br>- Yet another Trans woman in Web Dev</p>
 
+<div align="right">
+  <a href="https://fr.linkedin.com/in/basile-cunuder" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
 
 <br clear="both">
