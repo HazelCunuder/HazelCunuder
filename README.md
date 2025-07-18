@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 <strong>Back end</strong> developer 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
+<p align="center">🎓 <strong>C#</strong> developer 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
 
 ###
 
@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="jvs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="tps logo"  />
 </div>
 
 ###
@@ -82,6 +84,8 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vs/vs-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
