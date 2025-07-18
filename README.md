@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 <strong>Front End</strong> developer 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
+<p align="center">🎓 <strong>Back end</strong> developer 🎓<br>☕ Caffeinated | Animated | Future Innovator ✨</p>
 
 ###
 
